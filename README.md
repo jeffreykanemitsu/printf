@@ -1,4 +1,7 @@
-![printf](https://pbs.twimg.com/profile_images/644908719050850305/LbLzZ2vf.jpg)
+<p align="center">
+<img src="https://pbs.twimg.com/profile_images/644908719050850305/LbLzZ2vf.jpg" alt="Holberton's logo"/>
+</p>
+
 # 0x10. C - printf #
 
 ## Table of Contents ##
