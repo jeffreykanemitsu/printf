@@ -2,9 +2,11 @@
 <img src="https://pbs.twimg.com/profile_images/644908719050850305/LbLzZ2vf.jpg" alt="Holberton's logo"/>
 </p>
 
-   * [0x10. C - printf](#0x10-c---printf)
-      * [Table of Contents](#table-of-contents)
-         * [Team Members](#team-members)
+# 0x10. C - Printf #
+
+## Table of Contents ##
+
+   * [Team Members](#team-members)
          * [Objectives](#objectives)
          * [Compilation](#compilation)
          * [Requirements](#requirements)
