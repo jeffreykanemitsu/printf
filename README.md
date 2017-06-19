@@ -5,15 +5,17 @@
 # 0x10. C - printf #
 
 ## Table of Contents ##
-     * [Team Members](#team-members)
-     * [Objectives](#objectives)
-     * [Compilation](#compilation)
-     * [Requirements](#requirements)
-     * [Tasks](#tasks)
-        * [Mandatory](#mandatory)
-        * [Mandatory](#mandatory-1)
-        * [Mandatory](#mandatory-2)
-     * [Version](#version)
+=================
+
+         * [Team Members](#team-members)
+         * [Objectives](#objectives)
+         * [Compilation](#compilation)
+         * [Requirements](#requirements)
+         * [Tasks](#tasks)
+            * [Mandatory](#mandatory)
+            * [Mandatory](#mandatory-1)
+            * [Mandatory](#mandatory-2)
+         * [Version](#version)
 
 ### Team Members ###
 * "Jeffrey Kanemitsu" https://github.com/jeffreykanemitsu
